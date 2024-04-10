@@ -43,7 +43,7 @@ public class MSR {
         m[k] = l[i];
         i++;
       } else {
-        m[k] = r[i];
+        m[k] = r[j];
         j++;
       }
 
